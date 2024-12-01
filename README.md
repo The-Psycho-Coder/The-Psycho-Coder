@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @The-Psycho-Coder
+- 👀 I’m interested in collaborating and working with various development projects 
+- 🌱 I’m currently learning .NET Technology and basic Front-End
+- 💞️ I’m looking to collaborate on an Open-Source project
+- 📫 Reach me on: kush.raval.01@gmail.com
+- ⚡ Fun fact: I love to question things more before jumping on development
